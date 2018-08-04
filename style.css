@@ -1,0 +1,97 @@
+body {
+      background: url(https://i.imgur.com/MJAkxbh.png);
+     
+    }
+
+    .header-box {
+    height: 60px;
+   
+    border-style: solid;
+    border-color: gray;
+    border-width: 2px;
+    text-align: left;
+    background-color: purple;
+    width: 100%;
+    box-sizing: border-box;
+   
+    }
+
+    .nav-box {
+        height: 30px;
+ 
+        border-style: solid;
+        border-color: gray;
+        border-width: 2px;
+        text-align: center;
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    .subheader-box {
+
+    left: 100px;
+    margin: 0 auto;
+    border-style: solid;
+    border-color: gray;
+    border-width: 2px;
+    text-align: center;
+    background-color: yellow;
+    padding: 10px;
+    font-size: 30px;
+    height: 2.5em;
+    width: 50%;
+    box-sizing: border-box;
+    border: 1px solid grey;
+    border-radius: 50px 0;
+  }
+  
+  header {
+    background-color: purple);
+    color: yellow;
+  }
+  
+  nav {
+    background-color: hsl(180, 80%, 25%);
+    text-align: center;
+  }
+  
+  h1 {
+    text-indent: 10px;
+    padding-top: 10px;
+    color: black; 
+    font-family: monospace;
+    font-size: 25px;
+  }
+  
+  nav ul {
+    margin: 0px;
+    padding: 5px 0px 5px 30px;
+  }
+  
+  nav li {
+    color: black;
+    display: inline;
+    margin-right: 20px;
+  }
+
+  nav:hover {
+    background: pink;
+  }
+
+  h2 {
+    text-indent: 10px;
+    padding-top: 10px;
+    color: black;
+    font-family: monospace;
+    font-size: 25px;
+  }
+
+  p {
+    text-align: center;
+    color: green;
+  }
+
+  ul {
+    list-style-type: none;
+    text-align: center;
+  }
