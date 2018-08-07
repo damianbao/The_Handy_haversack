@@ -3,17 +3,17 @@ body {
      
     }
 
+    
     .header-box {
     height: 60px;
-   
+    color: rgb(100,149,237);
     border-style: solid;
     border-color: gray;
     border-width: 2px;
     text-align: left;
-    background-color: purple;
+    background-color: rgb(176,196,222);
     width: 100%;
     box-sizing: border-box;
-   
     }
 
     .nav-box {
